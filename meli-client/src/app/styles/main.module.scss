@@ -1,0 +1,14 @@
+@import './variables.module.scss';
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;700&display=swap');
+
+
+
+.body {
+  margin: 0;
+  background-color: $primary-bg-color;
+  font-family: 'Mulish', sans-serif;
+}
+
+.main {
+  height: calc(100vh - 80px);
+}

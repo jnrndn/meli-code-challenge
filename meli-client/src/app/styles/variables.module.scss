@@ -1,0 +1,30 @@
+$primary-color: #fff159;
+$primary-bg-color: #ebebeb;
+$primary-font: #333;
+$secondary-font: #666;
+$light-grey: #eee;
+$green: #00a650;
+$white: #fff;
+$blue: #3483fa;
+
+$small-font: 16px;
+$medium-font: 18px;
+$large-font: 20px;
+$xl-font: 28px;
+
+
+
+:export {
+  primaryColor: $primary-color;
+  primaryBgColor: $primary-bg-color;
+  darkFont: $primary-font;
+  lightFont: $secondary-font;
+  lightGrey: $light-grey;
+  green: $green;
+  blue: $blue;
+  white: $white;
+  smallFont: $small-font;
+  mediumFont: $medium-font;
+  largeFont: $large-font;
+  xlFont: $xl-font;
+}
